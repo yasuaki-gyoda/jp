@@ -9,51 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
+Work Experience
+======
+- Oct. 2021 – Present: Part-time teacher
+  * National Institute of Technology, Toyota College
+- Apr. 2021 – Present: JSPS Research Fellow for Young Scientists (PD)
+- Apr. 2020 – Mar. 2021: JSPS Research Fellow for Young Scientists (DC2)
+- Apr. 2019 – Mar. 2020: Research Assistant (RA)
+  * Graduate School of Mathematics, Nagoya University
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- Apr. 2019 – Mar. 2021: Ph.D. student
+  * Graduate School of Mathematics, Nagoya University
+  * Supervisor: Tomoki Nakanishi
+- Apr. 2017 – Mar. 2019: Graduate student
+  * Graduate School of Mathematics, Nagoya University
+  * Supervisor: Tomoki Nakanishi
+ - Apr. 2013 – Mar. 2017: Undergraduate student
+  * Department of Mathematics, School of Science, Nagoya University
+  * Supervisor: Takahiro Hayashi
   
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Mar. 25th, 2019: Master’s Thesis Award, Graduate School of Mathematics, Nagoya University
+  *	Master’s Thesis Award, Graduate School of Mathematics, Nagoya University
+Graduate School of Mathematics & Alumni Association of the Graduate School of Mathematics, Nagoya University
+  * Title: 団代数におけるF行列（F-matrices in cluster algebras）(Japanese)
 
-Publications
+Membership
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Member of the Mathematical Society of Japan
   
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
+ 
+Conference Organization
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Feb. 7-11th, 2020: Mathsci Freshman Seminar 2020
+  *  with Hiroshi Ishimoto, Keita Goto, Densuke Shiraishi, Taro Sogabe, JuAe Song, Taiki Takatsu, Shogo Fujiwara, Akiko Yazawa, and Koji Yamazaki
