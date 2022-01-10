@@ -26,9 +26,9 @@ Education
 - Apr. 2017 – Mar. 2019: Graduate student
   * Graduate School of Mathematics, Nagoya University
   * Supervisor: Tomoki Nakanishi
- - Apr. 2013 – Mar. 2017: Undergraduate student
-  * Department of Mathematics, School of Science, Nagoya University
-  * Supervisor: Takahiro Hayashi
+- Apr. 2013 – Mar. 2017: Undergraduate student
+  * Graduate School of Mathematics, Nagoya Universit
+  * Supervisor: Tomoki Nakanishi
   
 Awards
 ======
@@ -40,12 +40,7 @@ Graduate School of Mathematics & Alumni Association of the Graduate School of Ma
 Membership
 ======
 Member of the Mathematical Society of Japan
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
  
 Conference Organization
 ======
