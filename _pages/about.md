@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-JSPS Research Fellow for Young Scientists (PD)
-Graduate School of Mathematics
-Nagoya University,
-Chikusa-ku, Nagoya, 464-8602 Japan
+名古屋大学
+大学院多元数理科学研究科多元数理科学専攻
+日本学術振興会特別研究員（PD）
+メール: m17009g[at]math.nagoya-u.ac.jp
 
-E-mail: m17009g[at]math.nagoya-u.ac.jp
-
-Interests: cluster algebras and their applications.
+現在は団代数（クラスター代数）とその応用を主に勉強・研究しています。
 
