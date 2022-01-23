@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ja_JP"
 title                    : "行田康晃"
 title_separator          : "-"
 name                     : &name "行田康晃"
