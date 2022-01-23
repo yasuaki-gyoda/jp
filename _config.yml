@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yasuaki Gyoda"
+  name             : "行田康晃"
   avatar           : "chikugogawamarathon-e1577374502207-300x279.jpg"
-  bio              : "Postdoc at Nagoya Univ."
-  location         : "Nagoya, Japan"
-  employer         : "JSPS Fellow (PD)"
+  bio              : "名古屋大学大学院多元数理科学研究科"
+  location         : "名古屋, 日本"
+  employer         : "日本学術振興会特別研究員(PD)"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=A5Ue3sYAAAAJ&hl=ja&oi=ao"
   email            : "m17009g@math.nagoya-u.ac.jp"
