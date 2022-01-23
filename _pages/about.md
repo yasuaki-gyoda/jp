@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+ホームページを移転しました。<br>
+旧URL：http://yasuaki-gyoda.sakura.ne.jp/ja-top/<br>
 <br><br>
 名古屋大学<br>
 大学院多元数理科学研究科多元数理科学専攻<br>
