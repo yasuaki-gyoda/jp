@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "経歴"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,40 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
-Work Experience
+職歴
 ======
-- Oct. 2021 – Present: Part-time teacher
-  * National Institute of Technology, Toyota College
-- Apr. 2021 – Present: JSPS Research Fellow for Young Scientists (PD)
-- Apr. 2020 – Mar. 2021: JSPS Research Fellow for Young Scientists (DC2)
-- Apr. 2019 – Mar. 2020: Research Assistant (RA)
-  * Graduate School of Mathematics, Nagoya University
+- 2021年10月～現在: 豊田工業高等専門学校　非常勤講師
+- 2021年4月〜現在: 日本学術振興会特別研究員(PD)
+- 2020年4月～2021年3月: 日本学術振興会特別研究員(DC2)
+- 2019年4月～2020年3月: リサーチ・アシスタント(RA)
+  * 名古屋大学大学院多元数理科学研究科
 
-Education
+学歴
 ======
-- Apr. 2019 – Mar. 2021: Ph.D. student
-  * Graduate School of Mathematics, Nagoya University
-  * Supervisor: Tomoki Nakanishi
-- Apr. 2017 – Mar. 2019: Graduate student
-  * Graduate School of Mathematics, Nagoya University
-  * Supervisor: Tomoki Nakanishi
-- Apr. 2013 – Mar. 2017: Undergraduate student
-  * Graduate School of Mathematics, Nagoya Universit
-  * Supervisor: Tomoki Nakanishi
+- 2019年4月～2021年3月: 博士後期課程学生
+  * 名古屋大学大学院多元数理科学研究科多元数理科学専攻
+  * 指導教員： 中西　知樹　教授
+- 2017年4月～2019年3月: 博士前期課程学生
+  * 名古屋大学大学院多元数理科学研究科多元数理科学専攻
+  * 指導教員： 中西　知樹　教授
+- 2013年4月～2017年3月: 名古屋大学理学部数理学科
+  * 指導教員： 林　孝宏　准教授
   
-Awards
+受賞
 ======
-- Mar. 25th, 2019: Master’s Thesis Award, Graduate School of Mathematics, Nagoya University
-  *	Master’s Thesis Award, Graduate School of Mathematics, Nagoya University
-Graduate School of Mathematics & Alumni Association of the Graduate School of Mathematics, Nagoya University
-  * Title: 団代数におけるF行列（F-matrices in cluster algebras）(Japanese)
+- 2019年3月25日: 多元数理論文賞（修士論文賞）
+  *	名古屋大学 大学院多元数理科学研究科・名古屋大学 数理科学同窓会
+  * タイトル： 団代数におけるF行列（日本語）
 
-Membership
+所属学会
 ======
-Member of the Mathematical Society of Japan
+日本数学会会員
 
  
-Conference Organization
+主催研究集会
 ======
-- Feb. 7-11th, 2020: Mathsci Freshman Seminar 2020
-  *  with Hiroshi Ishimoto, Keita Goto, Densuke Shiraishi, Taro Sogabe, JuAe Song, Taiki Takatsu, Shogo Fujiwara, Akiko Yazawa, and Koji Yamazaki
+- 2020年2月7日～11日: 第3回数理新人セミナー
+  *  共同主催者：
+石本宙，後藤慶太，白石伝助，曽我部太郎，宋珠愛，高津大樹，藤原祥吾，矢澤明喜子，山﨑晃司
