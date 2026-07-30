@@ -41,4 +41,4 @@ author_profile: true
 
 ## お問い合わせ
 
-問い合わせ先:行田康晃 `yasuakigyoda[at]gmail.com`
+問い合わせ先：行田康晃 `yasuakigyoda[at]gmail.com`
