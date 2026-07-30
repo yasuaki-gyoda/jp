@@ -1,7 +1,7 @@
 ---
 title: "Cluster Algebras and beyond 2027"
 permalink: /CAB2027/
-author_profile: true
+author_profile: false
 ---
 
 ## 開催日
