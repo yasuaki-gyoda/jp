@@ -14,11 +14,11 @@ author_profile: true
 
 ## 講演題目と概要
 
-講演題目と概要（TBA）({{ site.url }}/workshop/abstracts/)
+講演題目と概要({{ site.url }}/workshop/abstracts/)
 
 ## プログラム・講演資料
 
-プログラム・講演資料（TBA）({{ site.url }}/workshop/program/)
+プログラム・講演資料({{ site.url }}/workshop/program/)
 
 ## 講演者
 
