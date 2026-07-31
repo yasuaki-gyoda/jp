@@ -39,6 +39,10 @@ author_profile: false
 - 木村嘉之（大阪公立大学）
 - 行田康晃（名古屋大学）
 
+## 謝辞
+
+当研究集会はJSPS科研費JP23K22385・JP23K03048・JP25K17224からの支援を受けています。
+
 ## お問い合わせ
 
 問い合わせ先：行田康晃 `yasuakigyoda[at]gmail.com`
